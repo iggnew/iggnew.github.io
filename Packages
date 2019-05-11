@@ -12,8 +12,8 @@ Section: iGG
 Priority: optional
 Author: iggnew
 Name: iGG iOS-12
-Depiction: https://iggnew.github.io/repo/ms/description.html?id=iGG-iOS-12
-Sileodepiction: https://iggnew.github.io/repo/ms/msxq/iGG-iOS-12.json
+Depiction: https://iggnew.github.io/ms/description.html?id=iGG-iOS-12
+Sileodepiction: https://iggnew.github.io/ms/msxq/iGG-iOS-12.json
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
@@ -29,6 +29,6 @@ Section: iGG
 Priority: optional
 Author: iggnew
 Name: iGameGuardian 正版8.3
-Depiction: https://iggnew.github.io/repo/ms/description.html?id=iGG8.3
-Sileodepiction: https://iggnew.github.io/repo/ms/msxq/iGG8.3.json
+Depiction: https://iggnew.github.io/ms/description.html?id=iGG8.3
+Sileodepiction: https://iggnew.github.io/ms/msxq/iGG8.3.json
 

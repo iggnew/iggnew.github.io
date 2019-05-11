@@ -4,13 +4,13 @@
       "hideShadow" : false,
       "package" : "com.iggnew.iGameGuardian.iOS12",
       "title" : "iGG iOS 12",
-      "url" : "https://iggnew.github.io/repo/img/7.jpg"
+      "url" : "https://iggnew.github.io/img/7.jpg"
     },
     {
       "hideShadow" : false,
       "package" : "com.iggnew.iGameGuardian8.3",
       "title" : "iGG 8.3",
-      "url" : "https://iggnew.github.io/repo/img/14.jpg"
+      "url" : "https://iggnew.github.io/img/14.jpg"
     }
   ],
   "class" : "FeaturedBannersView",

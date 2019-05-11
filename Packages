@@ -1,0 +1,34 @@
+Package: com.iggnew.iGameGuardian.iOS12
+Version: 12.0.1
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 15000
+Filename: debs/iGG12.0.1.deb
+Size: 884520
+MD5sum: 6c44b56927cd86c0581217cce61db86b
+SHA1: c0b48c837da8642138025e8659d5d69adfe544ef
+SHA256: 57a87145e65d22a8c102d05fb0d046c68dba8b7f66102b6610d0cad0e5af41f4
+Section: iGG
+Priority: optional
+Author: iggnew
+Name: iGG iOS-12
+Depiction: https://iggnew.github.io/repo/ms/description.html?id=iGG-iOS-12
+Sileodepiction: https://iggnew.github.io/repo/ms/msxq/iGG-iOS-12.json
+
+Package: com.iggnew.iGameGuardian8.3
+Version: 8.3
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 15000
+Filename: debs/iGG8.3.deb
+Size: 830832
+MD5sum: 276fb816645125993216022575e2fee1
+SHA1: b4a60ede6083017830255fe5b72138db389a156e
+SHA256: e584eb2a77555e862c557a126d89664ff09009b5ba3db0259ab234c9f8142daa
+Section: iGG
+Priority: optional
+Author: iggnew
+Name: iGameGuardian 正版8.3
+Depiction: https://iggnew.github.io/repo/ms/description.html?id=iGG8.3
+Sileodepiction: https://iggnew.github.io/repo/ms/msxq/iGG8.3.json
+

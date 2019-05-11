@@ -1,0 +1,75 @@
+{
+  "class" : "DepictionTabView",
+  "headerImage" : "https://iggnew.github.io/repo/img/31.jpg",
+  "minVersion" : "0.1",
+  "tabs" : [
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "详情描述",
+      "views" : [
+        {
+          "class" : "DepictionSubheaderView",
+          "title" : "🔘iGameGuardian 正版8.3\n- 🀙",
+          "useBoldText" : true,
+          "useBottomMargin" : false
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "8.3中文版, 支持iOS8.x-11.x系统的设备",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionSeparatorView"
+        },
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "版本描述"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "iOS8.x-11.x",
+          "title" : "系统支持"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "iGGNew",
+          "title" : "维护人员"
+        },
+        {
+          "class" : "DepictionTableTextView",
+          "text" : "2019-5-11",
+          "title" : "更新日期"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "<small style=\"color: #aaa; font-size: 8pt;\">『iGGNew』©2019</small><style>body { text-align: center; }</style>",
+          "useRawFormat" : true
+        }
+      ]
+    },
+    {
+      "class" : "DepictionStackView",
+      "tabname" : "更多支持",
+      "views" : [
+        {
+          "class" : "DepictionSpacerView",
+          "spacing" : 8
+        },
+        {
+          "class" : "DepictionHeaderView",
+          "title" : "关于我们"
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "iGGNew官方源",
+          "useSpacing" : true
+        },
+        {
+          "class" : "DepictionMarkdownView",
+          "markdown" : "<small style=\"color: #aaa; font-size: 8pt;\">iGGNew©</small><style>body { text-align: center; }</style>",
+          "useRawFormat" : true
+        }
+      ]
+    }
+  ]
+}

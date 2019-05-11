@@ -1,0 +1,8 @@
+Origin: iGGNew源
+Label:iGGNew源
+Suite: stable
+Version: 1.0
+Codename: iGGNew
+Architecture: iphoneos-arm
+Components: main
+Description: iGGNew源

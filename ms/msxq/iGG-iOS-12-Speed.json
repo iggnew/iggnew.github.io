@@ -15,7 +15,7 @@
         },
         {
           "class" : "DepictionMarkdownView",
-          "markdown" : "请首先尝试iGG 12 Speed, 搜索速度更快, 如果不能正常工作, 请使用兼容版iGG 12 Stable",
+          "markdown" : "iGG 12 Speed, 搜索速度更快, 如果不能正常工作, 请使用兼容版iGG 12 Stable",
           "useSpacing" : true
         },
         {

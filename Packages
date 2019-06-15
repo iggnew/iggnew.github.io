@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: iggnew
 Installed-Size: 15000
 Filename: debs/iGG12.0.1.deb
-Size: 809036
-MD5sum: 6078f348f46e007f6b4e0d357d21b45b
-SHA1: 388073b5ffb08a85a7d58ce2ee6fddec4feff26c
-SHA256: 3cff7de932ea85951a2fcf5a86903c004fb3624305b9be26ae52816ee51589c1
+Size: 1005826
+MD5sum: b1679547956f090168550a47f22f71e0
+SHA1: 592f00b31855938a37caabc513d52661c19e1bd5
+SHA256: 71ba18b742145d34d70e13d12f13d89fe20c065209159021446608627fc44433
 Section: iGG
 Priority: optional
 Author: iggnew
@@ -21,14 +21,15 @@ Architecture: iphoneos-arm
 Maintainer: iggnew
 Installed-Size: 15000
 Filename: debs/iGG8.3.deb
-Size: 781714
-MD5sum: 641e07af376d33eabe35ca15036993a8
-SHA1: ac52ce31eb55bba60e5c3eb92ac27fbe02ba6da7
-SHA256: 4a8e7f7d2dced8702099cbae28bcd33f4c6f49919709ceeecdf4346ff2d07c58
+Size: 935996
+MD5sum: 294fbd0a0520769c9e42561c369b4f42
+SHA1: fb10d0d4aab69f578940cad8e6291bb1b403b716
+SHA256: 219f23d0d499ba2dcad7bd7ad880e7c3c4469011ede12021549ff18821e581b6
 Section: iGG
 Priority: optional
 Author: iggnew
 Name: iGameGuardian 正版8.3
+Sponsor: iggnew
 Depiction: https://iggnew.github.io/ms/description.html?id=iGG8.3
 Sileodepiction: https://iggnew.github.io/ms/msxq/iGG8.3.json
 

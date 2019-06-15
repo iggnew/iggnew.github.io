@@ -1,18 +1,52 @@
-Package: beta
-Version: 1.0
+Package: com.iggnew.iGameGuardian.iOS12
+Version: 12.0.4
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Installed-Size: 15
-Filename: ./debs/beta_1.0_iphoneos-arm.deb
-Size: 1000
-MD5sum: bd9d06ff29b26663eebae77dd386065b
-SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
-SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
-Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
-Description: 这里是描述插件的简介,此插件只是一个样板文件,供大家学习研究使用,为制作更好的越狱环境,请大家不要不要恶意修改插件文件,修改原创作者,不上传恶意插件,源文件描述详情适配cydia跟sileo,他是个疯子
-Author: 他是个疯子
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
-Name: 样板测试文件
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/sileo-installer.json
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.deb
+Size: 1034296
+MD5sum: 54f1973a84154cb63647885314765934
+SHA1: 8e888e356b9c3aab990e9a75d93535c0994d2775
+SHA256: 4ee6cf73dd64e52c4ff935fc57c3432027798fdd517e73b7baf185b913d095d8
+Section: iGG
+Priority: optional
+Author: iggnew
+Name: iGG 12 Stable
+Depiction: https://iggnew.github.io/ms/description.html?id=iGG-iOS-12
+Sileodepiction: https://iggnew.github.io/ms/msxq/iGG-iOS-12.json
+
+Package: com.iggnew.iGameGuardian.iOS12.speed
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.speed.deb
+Size: 1034874
+MD5sum: 6b30fe9420e75999eb0d41844981b7d2
+SHA1: 269ebdff6f0b4713dae5ce806a9bea5cd4382ab6
+SHA256: 810807c89f977d30f448b3df6c9667a8ad7a910166eac35dc6640e381cace79b
+Section: iGG
+Priority: optional
+Author: iggnew
+Name: iGG 12 Speed
+Depiction: https://iggnew.github.io/ms/description.html?id=iGG-iOS-12-Speed
+Sileodepiction: https://iggnew.github.io/ms/msxq/iGG-iOS-12-Speed.json
+
+Package: com.iggnew.iGameGuardian8.3
+Version: 8.3
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 15000
+Filename: debs/iGG8.3.deb
+Size: 1045126
+MD5sum: 14353808b1e2c45799a2f48bbecd1e6f
+SHA1: b941cae6a14492b188cc0b774e76a0ec44e6b367
+SHA256: 9fdc5820b0f23a04a2c579b0c34945ec3377ba58525613a68d631c75722b2dc7
+Section: iGG
+Priority: optional
+Author: iggnew
+Name: iGameGuardian 正版8.3
+Sponsor: iggnew
+Depiction: https://iggnew.github.io/ms/description.html?id=iGG8.3
+Sileodepiction: https://iggnew.github.io/ms/msxq/iGG8.3.json
 

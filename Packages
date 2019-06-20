@@ -37,11 +37,11 @@ Version: 8.3
 Architecture: iphoneos-arm
 Maintainer: iggnew
 Installed-Size: 15000
-Filename: debs/iGG8.3.deb
-Size: 1110990
-MD5sum: 9d1d15a90d17488c04c6720c1a266c58
-SHA1: 66873e1d84d0405b803b8672eacc4ecaa594ad4a
-SHA256: 98e0ccce1698017ef2b907776f310fca61949e72b96dcd30de894702091b60eb
+Filename: debs/iGG8.3_0.deb
+Size: 821476
+MD5sum: cdc57ff9f4f0f420356f3930188ce440
+SHA1: c4d2bba51a5245a191792856f33ab3aa4bc80df6
+SHA256: 8deba0dcacb17a0fcf7383eaaeb3213417528a66dc8dc95df36d151de02f726e
 Section: iGG
 Priority: optional
 Author: iggnew
@@ -49,4 +49,3 @@ Name: iGameGuardian 正版8.3
 Sponsor: iggnew
 Depiction: https://iggnew.github.io/ms/description.html?id=iGG8.3
 Sileodepiction: https://iggnew.github.io/ms/msxq/iGG8.3.json
-

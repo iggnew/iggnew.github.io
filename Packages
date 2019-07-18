@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: iggnew
 Installed-Size: 15000
 Filename: debs/iGG8.3_O.deb
-Size: 1121754
-MD5sum: 6a5b7b000f6eb24f031dc6b91e689025
-SHA1: a72ae71bb0f41c73a42b1a5a41bc03b6accb2b66
-SHA256: b1e18c88bce8f59a87ff5cdf24c106e31cd9b229ec6048e3409a2df54964bd98
+Size: 830832
+MD5sum: 276fb816645125993216022575e2fee1
+SHA1: b4a60ede6083017830255fe5b72138db389a156e
+SHA256: e584eb2a77555e862c557a126d89664ff09009b5ba3db0259ab234c9f8142daa
 Section: iGG
 Priority: optional
 Author: iggnew

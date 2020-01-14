@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: iggnew
 Installed-Size: 1372
 Filename: debs/iGG.12.0.4.speed.deb
-Size: 1172046
-MD5sum: e361fb13a7b81719aebdb6b1595aa70e
-SHA1: bcd9a69b0bd46a46a21c7a9a28075e180d26fa7b
-SHA256: 3055beb6f672552f04ce0a34b86853056ef2e3ba07bd1be9c3aa03a5c8826b14
+Size: 1164900
+MD5sum: ce55c40a6f104eb7bf25c16086dfe976
+SHA1: 06a0fb60b116faf1f40a69799e669536dfe15258
+SHA256: 9d217a8a9f3747f733d1cd5df5bd0d886fee57780bb88f8e1cd5bf0583164a98
 Section: iGG
 Priority: optional
 Author: iggnew

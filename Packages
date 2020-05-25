@@ -12,8 +12,6 @@ Section: iGG
 Priority: optional
 Author: iggnew
 Name: iGG 12 Stable
-Depiction: https://iggnew.github.io/ms/description.html?id=iGG-iOS-12
-Sileodepiction: https://iggnew.github.io/ms/msxq/iGG-iOS-12.json
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
@@ -29,8 +27,70 @@ Section: iGG
 Priority: optional
 Author: iggnew
 Name: iGG 12 Speed
-Depiction: https://iggnew.github.io/ms/description.html?id=iGG-iOS-12-Speed
-Sileodepiction: https://iggnew.github.io/ms/msxq/iGG-iOS-12-Speed.json
+
+Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.speed.a1.deb
+Size: 1090562
+MD5sum: 1b65e01a92af259c363f3fa5c45f9735
+SHA1: fcaa17f6bed78319cbfc1e5c91724a8b9bafeaf9
+SHA256: 674f17cc4364668c44cc5f6670fdea21320c36e135ea535df6df8e00f1bc2762
+Section: iGG
+Priority: optional
+Description: iGameGuardian 伪装包1
+Author: iggnew
+Name: iGG 12 Speed [fireOne]
+
+Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.speed.a4.deb
+Size: 1090586
+MD5sum: 298e64254454482f6539913218e45728
+SHA1: 004fa2406867b8941e6eb259cbdc8c9dd3bec631
+SHA256: 1cf4132ef57b5f15ff8f2a1c7848aae21108430127fb4b9b40deba6625eba404
+Section: iGG
+Priority: optional
+Description: iGameGuardian 伪装包1
+Author: iggnew
+Name: iGG 12 Speed [FireFour]
+
+Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.speed.a3.deb
+Size: 1090722
+MD5sum: 5429e65d8ddc46b0f625bc6456ffe090
+SHA1: d445ed5478c1d15e6c3ef60485b4c4685795751b
+SHA256: ceb767ff874d8a2e62863a12433c9056a01938ed38f2e2b5054690593dd3e3d8
+Section: iGG
+Priority: optional
+Description: iGameGuardian 伪装包3
+Author: iggnew
+Name: iGG 12 Speed [FireThree]
+
+Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Installed-Size: 1372
+Filename: debs/iGG.12.0.4.speed.a2.deb
+Size: 1090570
+MD5sum: 0d1cf47fc43821047fb7ceaf0e738c35
+SHA1: 6dfcd0952b1172a4ed62351b58c9fe3ada76548a
+SHA256: 9a604957708953f074704ae1f906a68518175a8a666f82890f1f827b727f7003
+Section: iGG
+Priority: optional
+Description: iGameGuardian 伪装包2
+Author: iggnew
+Name: iGG 12 Speed [FireTwo]
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
@@ -47,6 +107,4 @@ Priority: optional
 Author: iggnew
 Name: iGameGuardian 正版8.3
 Sponsor: iggnew
-Depiction: https://iggnew.github.io/ms/description.html?id=iGG8.3
-Sileodepiction: https://iggnew.github.io/ms/msxq/iGG8.3.json
 

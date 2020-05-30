@@ -11,7 +11,7 @@ SHA256: 028d07584a0a68f8a7e09927dbc78bcf331e608120bbe6aa666007cb9a279c0f
 Section: iGG
 Priority: optional
 Author: iggnew
-Name: iGG 12 Stable
+Name: iGG 12 Stable 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
@@ -26,7 +26,7 @@ SHA256: 9d217a8a9f3747f733d1cd5df5bd0d886fee57780bb88f8e1cd5bf0583164a98
 Section: iGG
 Priority: optional
 Author: iggnew
-Name: iGG 12 Speed
+Name: iGG 12 Speed 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
 Version: 12.0.4
@@ -42,7 +42,7 @@ Section: iGG
 Priority: optional
 Description: iGameGuardian 伪装包1
 Author: iggnew
-Name: iGG 12 Speed [fireOne]
+Name: iGG 12 Speed [fireOne] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
 Version: 12.0.4
@@ -58,7 +58,7 @@ Section: iGG
 Priority: optional
 Description: iGameGuardian 伪装包1
 Author: iggnew
-Name: iGG 12 Speed [FireFour]
+Name: iGG 12 Speed [FireFour] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
 Version: 12.0.4
@@ -74,7 +74,7 @@ Section: iGG
 Priority: optional
 Description: iGameGuardian 伪装包3
 Author: iggnew
-Name: iGG 12 Speed [FireThree]
+Name: iGG 12 Speed [FireThree] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
 Version: 12.0.4
@@ -90,7 +90,7 @@ Section: iGG
 Priority: optional
 Description: iGameGuardian 伪装包2
 Author: iggnew
-Name: iGG 12 Speed [FireTwo]
+Name: iGG 12 Speed [FireTwo] 免费
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
@@ -105,6 +105,6 @@ SHA256: e584eb2a77555e862c557a126d89664ff09009b5ba3db0259ab234c9f8142daa
 Section: iGG
 Priority: optional
 Author: iggnew
-Name: iGameGuardian 正版8.3
+Name: iGameGuardian 正版8.3 免费
 Sponsor: iggnew
 
